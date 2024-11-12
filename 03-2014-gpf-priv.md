@@ -1,6 +1,6 @@
 # A GPF Privilege instruction violation example
 
-This is privilege instruction violation that causes GPF. The main cause of this failure is the **RDMSR** executed by the C code listed below.
+This is a privilege instruction violation that causes GPF. The main cause of the GPF is the **RDMSR** executed by the C code listed below.
 
 ## Original post from StackOverflow
 
